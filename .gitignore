@@ -1,0 +1,7 @@
+# On ignore tous les dossiers nommés "vendor" (même dans les sous-dossiers parce que je n'ai précisé aucun chemin (avec "/" par exemple))
+vendor
+
+# On précise qu'on ignore le dossier wp à la racine du projet (préfixe "/")
+/wp
+/wp-config.php
+/wp-content
